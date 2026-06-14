@@ -4,7 +4,7 @@
   <h1>✨ TenSei Upscale ✨</h1>
   <p><strong>A sleek, intuitive Android application for upscaling and enhancing image quality locally on your device.</strong></p>
 
-  <a href="https://github.com/yourusername/TenSei-Upscale/releases"><img src="https://img.shields.io/badge/Download-APK%20Release-blue?style=for-the-badge&logo=android" alt="Download APK" /></a>
+  <a href="https://github.com/Koustubh12345/TenSei-Upscale-image/releases"><img src="https://img.shields.io/badge/Download-APK%20Release-blue?style=for-the-badge&logo=android" alt="Download APK" /></a>
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Platform" />
   <img src="https://img.shields.io/badge/License-Custom-red?style=for-the-badge" alt="License" />
 </div>
