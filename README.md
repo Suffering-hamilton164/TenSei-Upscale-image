@@ -46,9 +46,13 @@
 3. Open the APK on your Android device and install it (you may need to allow installations from unknown sources).
 4. Launch **TenSei Upscale** and enjoy!
 
-## 🤝 Credits
-- Modern icons are provided by Material Symbols.
-- Image processing leverages Android RenderScript and Bitmap color matricies.
+📢 Community
+
+Telegram
+
+- Username: "@getthefckoutofheree"
+- Channel: "https://t.me/GettheFuckoutofhear"
+- Mods Channel: "https://t.me/TenseiMods"
 
 ## 📄 License & Usage
 
