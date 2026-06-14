@@ -50,9 +50,9 @@
 
 Telegram
 
-- Username: "@getthefckoutofheree"
-- Channel: "https://t.me/GettheFuckoutofhear"
-- Mods Channel: "https://t.me/TenseiMods"
+- Username: "@getthefckoutofheree" (https://t.me/getthefckoutofheree)
+- Channel: "GetTheFuckoutofhear" (https://t.me/GettheFuckoutofhear)
+- Mods Channel: "TenseiMods" (https://t.me/TenseiMods)
 
 ## 📄 License & Usage
 
